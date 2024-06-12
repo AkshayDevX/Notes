@@ -1,0 +1,1 @@
+ALTER TABLE "dummyUsers" ADD COLUMN "token" varchar(256) NOT NULL;
